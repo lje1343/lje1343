@@ -32,12 +32,12 @@
 <br>
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=alsgud2659&theme=react&hide_border=true&include_all_commits=true&count_private=false) &nbsp;  &nbsp;  &nbsp;  &nbsp; 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alsgud2659&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=lje1343&theme=react&hide_border=true&include_all_commits=true&count_private=false) &nbsp;  &nbsp;  &nbsp;  &nbsp; 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lje1343&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 <br>
-[![](https://visitcount.itsvg.in/api?id=alsgud2659&icon=7&color=6)](https://visitcount.itsvg.in) 
+[![](https://visitcount.itsvg.in/api?id=lje1343&icon=7&color=6)](https://visitcount.itsvg.in) 
  
  <br>
 
-# 👇Connect with LeeMinHyung
+# 👇Connect with LeeJiEun
 <a href="mailto:lje1343@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
