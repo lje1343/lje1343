@@ -5,6 +5,8 @@
 백엔드 주니어 개발자 이지은 입니다 :D <br>
 💌 Email : lje1343@gmail.com <br>
 
+<br>
+
 # 💻Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=Java&logoColor=white)
