@@ -2,9 +2,8 @@
 
  
  # 💫About Me :
-백엔드 주니어 개발자 이지은 입니다 :D
+백엔드 주니어 개발자 이지은 입니다 :D <br>
 💌 Email : lje1343@gmail.com <br>
-<a href="mailto:lje1343@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 
 # 💻Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
