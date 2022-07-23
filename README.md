@@ -17,7 +17,6 @@
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white) 
 ![Oracle SQL](https://img.shields.io/badge/oracle-F80000.svg?style=flat&logo=oracle&logoColor=white) 
 ![MyBatis](https://img.shields.io/badge/MyBatis-003545?style=flat&logo=mybatis&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=Pandas&logoColor=white)
 ![ThymeLeaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?style=flat&logo=Thymeleaf&logoColor=white) 
 
 <br>
@@ -30,7 +29,6 @@
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/github-181717.svg?style=flat&logo=github&logoColor=white)
-![SLACK](https://img.shields.io/badge/slack-4A154B.svg?sltyle=flat&logo=slack&logoColor=white)
 
 <br>
 
