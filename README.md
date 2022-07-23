@@ -4,7 +4,7 @@
  # 💫About Me :
 💕 백엔드 주니어 개발자 이지은 입니다.<br>
 💌 Email : lje1343@gmail.com <br>
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%lje1343&count_bg=%23FDC8F8&title_bg=%23F54D4D96&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 
 # 💻Tech Stack
